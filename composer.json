@@ -61,7 +61,7 @@
             ]
         },
         "branch-alias": {
-            "dev-v4": "4.x-dev"
+            "dev-v5": "5.x-dev"
         }
     },
     "config": {
